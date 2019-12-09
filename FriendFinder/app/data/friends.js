@@ -1,4 +1,4 @@
-let friendArray = [
+let friendsArray = [
     {
     name: "Friend1",
     photo: "image to be added",
@@ -31,4 +31,6 @@ let friendArray = [
         5
     ]
 }
-]
+];
+
+module.exports = friendsArray;
